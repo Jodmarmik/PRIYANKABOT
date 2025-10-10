@@ -1,5 +1,5 @@
 {
-    "name": "xBitMuisc",
+    "name": "jod music",
     "description": "A Telegram Music Player Bot, written in Python with Pyrogram and Py-Tgcalls.",
     "logo": "https://imgur.com/a/zdIwpug",
     "keywords": [
@@ -29,7 +29,7 @@
       },
       "MONGO_DB_URI": {
         "description": "mongo",
-        "value": "mongodb+srv://JODHUBHAI:JODHUBHAI@jodhubhai.ngcp0ki.mongodb.net/?retryWrites=true&w=majority&appName=JODHUBHAI",
+        "value": "",
         "required": true
       },
       "YTPROXY_URL": {
@@ -39,7 +39,7 @@
       },
         "YT_API_KEY": {
         "description": "YT Proxy API KEY",
-        "value": "xbit_6BTMTURF8TAJ7FYHZT7KT6",
+        "value": "",
         "required": true
       },
       "OWNER_ID": {
